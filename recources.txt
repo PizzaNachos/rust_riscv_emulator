@@ -1,0 +1,5 @@
+https://riscv.org/technical/specifications/
+Volume 1 pg 129
+
+https://risc-v.guru/instructions/
+https://risc-v.guru/key_terms/

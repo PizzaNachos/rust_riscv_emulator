@@ -1,0 +1,22 @@
+ADDI
+20 Im val    5 src 3fp 5dest 7opcode
+000000001111_00000_000_00000_0010011
+
+
+
+
+Store
+7 imm   5dest 5 src 3fn 5imm  7op
+0000000_11000_11110_010_00000_0100011
+
+Load
+imm          5src  3fn 5dest 7op
+000000000000_11000_010_11111_0000011
+
+jump and link 
+imm                  5 rd  7op
+00000000000000000000_00000_1101111
+
+jump and link register
+imm          5rs1 3fn 5 rd   7op
+000000001111_00000_000_00000_0010011
